@@ -6,4 +6,4 @@ select title from film;
 select distinct language_id as language from film;
 select count(*) as store_count from store;
 select count(*) as employee_count from staff;
-select first_name from st aff
+select first_name from staff
